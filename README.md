@@ -13,7 +13,7 @@ Rodar a aplicação `ng serve`. Navegue para `http://localhost:4200/`.
 - API JAVA
 
 ## Tela inicial do projeto
-### Carregar uma tabela com os dados da api e nessa tela podemos adicionar, atualizar, deletar ou pesquisar por nome.
+### Carregar uma tabela com os dados da api com paginação e nessa tela podemos adicionar, atualizar, deletar ou pesquisar por nome.
 ![tela incial_001](https://user-images.githubusercontent.com/62908563/101535648-b8d83280-3977-11eb-8e73-9bd75723ce76.jpg)
 
 ### Podemos Adicionar um novo nome, e tem validação de tamanho mínimo, maximo ou se o campo estiver em branco. 
