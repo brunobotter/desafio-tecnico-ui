@@ -2,9 +2,8 @@
 
 ## Criação de uma spa para consumir a api criada.
 
-## Development server
-
-Rodar a aplicação `ng serve`. Navegue para `http://localhost:4200/`. 
+## Link da API em Java
+https://github.com/brunobotter/desafio-tecnico
 
 ## Tecnologia utilizada
 
